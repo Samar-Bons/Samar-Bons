@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samar-Bons
-- 👀 I’m interested in applying Machine Learning to solve real-world problems.
-- 🌱 I’m currently learning how to create an intelligent chatbot. I am also trying to figure out a way to do a Django implementation of my CLI script. 
-- 💞️ I’m looking to collaborate on applications which utilize machine learning solutions in order to make the world an easier place to live in. 
+- 👀 I’m an AI fluent software architect 
+- 🌱 After spending a long time on privte enterprise projects, now I am back to working on my own projects in public Github. 
+- 💞️ I’m looking to collaborate on applications which utilize AI agents in order to make the world an easier place to live in. 
 - 📫 How to reach me: samarjitbons@gmail.com
 
 <!---
